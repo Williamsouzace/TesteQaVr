@@ -1,0 +1,14 @@
+{
+  "name": "testesvr",
+  "version": "1.0.0",
+  "description": "testesVr",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "William de souza",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
